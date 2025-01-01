@@ -37,12 +37,8 @@ Make sure that your “.local/bin” directory is in your current user’s PATH 
 echo "PATH=$PATH:.local/bin" >> ~/.bashrc && bash
 ```
 
-Clone this repo
-
-```
-git clone https://github.com/raishudesu/arch-rijndael-kde-config.git
-cd arch-rijndael-kde-config
-```
+Download my Konsave file
+https://mega.nz/file/DV9FSBjS#QFIfWHFVCorLAbSN1o8iU47mEWwbm70llS3oNgoLWxs
 
 Import the .knsv file
 
